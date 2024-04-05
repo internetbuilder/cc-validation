@@ -1,4 +1,4 @@
-[![npm](https://img.shields.io/npm/v/simple-card.svg?style=flat-square)](https://www.npmjs.com/package/simple-card)
+#[![npm](https://img.shields.io/npm/v/simple-card.svg?style=flat-square)](https://www.npmjs.com/package/simple-card)
 [![David](https://img.shields.io/david/dhershman1/simple-card.svg?style=flat-square)](https://david-dm.org/dhershman1/simple-card)
 [![David](https://img.shields.io/david/dev/dhershman1/simple-card.svg?style=flat-square)](https://david-dm.org/dhershman1/simple-card?type=dev)
 [![Travis](https://img.shields.io/travis/dhershman1/simple-card.svg?style=flat-square)](https://travis-ci.org/dhershman1/simple-card)
