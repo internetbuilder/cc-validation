@@ -145,9 +145,6 @@
   });
 
   var luhnChk = function luhnChk(value) {
-    if (/[^0-9-\s]+/.test(value)) {
-      return false;
-    }
     var numArr = [0, 2, 4, 6, 8, 1, 3, 5, 7, 9];
     var len = value.length;
     var bit = 1;
